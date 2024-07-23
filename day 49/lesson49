@@ -1,0 +1,20 @@
+Rotate a square div by 45 degrees using the transform: rotate() property.
+transform: rotate(45deg);
+
+Create a button that scales up by 1.2 times when hovered over using the transform: scale() property.
+transform: scale(1.2);
+
+Move a circle div 100px to the right using the transform: translateX() property.
+transform: translateX(100px);
+
+Apply both rotation and scaling to a div simultaneously using the transform property.
+transform: rotate(45deg) scale(1.2);
+
+Create a div that changes its background color smoothly over 0.5 seconds when hovered over using the transition property.
+transition: background-color 0.5s;
+
+Create a div that transitions both its width and height smoothly over 1 second when hovered over using the transition property.
+transition: width 1s, height 1s;
+
+Create a heading that rotates 10 degrees when hovered over using transform: rotate() and transition.
+transform: rotate(10deg);
